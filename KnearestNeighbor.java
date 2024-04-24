@@ -1,4 +1,4 @@
-// 1211201118 林優花
+
 //ファイル読み込みのためのimport
 import java.io.BufferedReader;
 import java.io.File;
